@@ -3,6 +3,8 @@
 _"It's not terracotta. It's a terrorist cutter."_
 -xodak
 
+❗For Minecraft 1.21.x❗
+
 <details>
 <summary>한국어</summary>
 📢이 리포지토리에 올라와있는 소스코드는 영어 버전 소스코드입니다!📢
