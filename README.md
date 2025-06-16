@@ -1,9 +1,9 @@
-# Terrorist cutter
+# Terror cutter
 ### Made by Korean
 
 ![banner](https://cdn.modrinth.com/data/cached_images/fbb2567112a4eea5e29083683238a2abd191853b.png)
 
-_"It's not terracotta. It's a terrorist cutter."_
+_"It's not terracotta. It's a terror cutter."_
 -xodak
 
 ❗For Minecraft 1.21.x❗
