@@ -11,7 +11,7 @@ _"It's not terracotta. It's a terrorist cutter."_
 버그가 있으면 cececefrunhaneul@gmail.com으로 제보해주세요!
 </details>
 
-
+![icon](https://cdn.modrinth.com/data/cached_images/fa38a93b2d4234860ca7918455b96b40009722bc.png)
 
 If your friends are terrorizing your server, you can use this plugin!
 
