@@ -1,0 +1,10 @@
+main: net.mcreator.terroristbunswagy.TerroristBunswagyMod
+name: terroristbunswagy
+version: 1.0.0
+authors: [User, MCreator]
+website: https://mcreator.net
+api-version: 1.21
+
+commands:
+  테러범분쇄기:
+    permission: 테러범분쇄기.use

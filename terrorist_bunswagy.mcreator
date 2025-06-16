@@ -1,0 +1,43 @@
+{
+  "mod_elements": [
+    {
+      "name": "Terror",
+      "type": "command",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "terror",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/terroristbunswagy/commands/Terror.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "terrorist_bunswagy",
+    "modName": "terrorist bunswagy",
+    "version": "1.0.0",
+    "author": "User, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "spigot-1.21",
+    "modElementsPackage": "net.mcreator.terroristbunswagy"
+  },
+  "mcreatorVersion": 202500113416
+}
