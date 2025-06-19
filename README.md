@@ -39,6 +39,6 @@ If you find any bugs, please report them to cececefrunhaneul@gmail.com!
 ### Information
 
 
-You can download it from modrinth! (Or build it yourself with Mcreator. I only use Mcreator when working with Gradle.)
+You can download it from modrinth! (Or please build it yourself with Mcreator. I only use Mcreator when working with Gradle.)
 
 ![abailableonmodrinth](https://cdn.modrinth.com/data/cached_images/0162363e690314eb0d50173a3ceaa92b7cb1ea09.png)
